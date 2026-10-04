@@ -1,0 +1,6 @@
+{
+  "name": "LokaMart - Marketplace Kriya & UMKM Lokal",
+  "description": "Aplikasi marketplace kerajinan tangan, batik, tenun, dan produk kurasi UMKM lokal Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
